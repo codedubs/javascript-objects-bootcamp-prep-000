@@ -9,7 +9,7 @@ var playlist = {
 
 function updatePlaylist(playlist, artistName, songTitle) {
 
-    playlist[artistName] = "songTitle"
+    playlist["Phil Ochs"] = "Here's to the state of Mississippi"
     return playlist
 
 }
